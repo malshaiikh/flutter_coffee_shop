@@ -17,16 +17,16 @@ This project is based on a [YouTube tutorial by Mitch Koko](https://www.youtube.
 ## Screenshots
 
 ### Intro Page
-<img src="screenshots/Intro_page.png" width="300">
+<img src="Screenshots/Intro_page.png" width="300">
 
 ### Shop Page
-<img src="screenshots/Shop_page.png" width="300">
+<img src="Screenshots/Shop_page.png" width="300">
 
 ### Details Page
-<img src="screenshots/View_details.png" width="300">
+<img src="Screenshots/View_details.png" width="300">
 
 ### Add Confirmation
-<img src="screenshots/Added_to_cart.png" width="300">
+<img src="Screenshots/Added_to_cart.png" width="300">
 
 ### Cart Page
-<img src="screenshots/Cart_page.png" width="300">
+<img src="Screenshots/Cart_page.png" width="300">
