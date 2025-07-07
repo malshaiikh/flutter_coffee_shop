@@ -5,13 +5,13 @@ This project is based on a [YouTube tutorial by Mitch Koko](https://www.youtube.
 ## Features
 
 - Browse coffee list
-- Select item quantity and size 
+- Select item quantity and size
 - Add items to cart
-- Prevent adding duplicate items (same coffee & same size)
+- Automatically increase quantity if same coffee & size is added again
 - Remove items from cart
 - Live total price calculation
 
-> The quantity/size selection, total price calculation, and duplicate prevention logic were implemented beyond the original tutorial.
+> The quantity/size selection, total price calculation, and duplicate-handling logic were implemented beyond the original tutorial.
 
 
 ## Screenshots
