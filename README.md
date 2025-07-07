@@ -11,7 +11,7 @@ This project is based on a [YouTube tutorial by Mitch Koko](https://www.youtube.
 - Remove items from cart
 - Live total price calculation
 
-> The quantity/size selection, total price calculation, and duplicate-handling logic were implemented beyond the original tutorial.
+> The quantity/size selection, total price calculation, and duplicate-handling code were implemented beyond the original tutorial.
 
 
 ## Screenshots
