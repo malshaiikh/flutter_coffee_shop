@@ -9,7 +9,7 @@ This project is based on a [YouTube tutorial by Mitch Koko](https://www.youtube.
 - Add items to cart
 - Automatically increase quantity if same coffee & size is added again
 - Remove items from cart
-- Live total price calculation
+- Total price calculation
 
 > The quantity/size selection, total price calculation, and duplicate-handling code were implemented beyond the original tutorial.
 
