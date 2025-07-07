@@ -12,3 +12,21 @@ This project is based on a [YouTube tutorial by Mitch Koko](https://www.youtube.
 - Live total price calculation
 
 > The quantity/size selection, total price calculation, and duplicate prevention logic were implemented beyond the original tutorial.
+
+
+## Screenshots
+
+### Intro Page
+<img src="screenshots/Intro_page.png" width="300">
+
+### Shop Page
+<img src="screenshots/Shop_page.png" width="300">
+
+### Details Page
+<img src="screenshots/View_details.png" width="300">
+
+### Add Confirmation
+<img src="screenshots/Added_to_cart.png" width="300">
+
+### Cart Page
+<img src="screenshots/Cart_page.png" width="300">
