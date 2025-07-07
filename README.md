@@ -26,7 +26,7 @@ This project is based on a [YouTube tutorial by Mitch Koko](https://www.youtube.
 <img src="screenshots/view_details.png" width="300">
 
 ### Add Confirmation
-<img src="screenshots/add confirmation.png" width="300">
+<img src="screenshots/add_confirmation.png" width="300">
 
 ### Cart Page
 <img src="screenshots/cart_page.png" width="300">
